@@ -1,3 +1,3 @@
 def prime?(integer)
-  integer.odd?
+  integer.prime? 
 end
